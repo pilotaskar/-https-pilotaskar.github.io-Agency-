@@ -1,0 +1,88 @@
+header {
+    border: solid 1px;
+    width: 100%;
+    height: 400px;
+    background: url("https://www.lighthouselabs.ca/uploads/post/open_graph_image/459/Coding-vs-programming.jpg");
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+main {
+   
+    
+    text-align: center;
+}
+
+.two_flex {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.before_footer {
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    border: solid 1px black;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.footer_border {
+   
+    border: solid 1px black;
+    color:white
+}
+
+.footer_border2 {
+    border: solid 1px black;
+    background-color: grey;
+    color: white;
+}
+
+.last {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 1px black;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+span {
+    color:turquoise;
+}
+
+section {
+    border: solid 1px black;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+
+
+.card, .card2, .card3 {
+    box-shadow: 0 4px 8px 0 black;
+    width: 20%;
+    margin-left: 10%;
+    padding-top: 30px;
+}
+.container, .container2, .container3 {
+    padding: 2px 16px;
+    background-color: white;
+   
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    
+}
+
